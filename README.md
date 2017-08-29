@@ -1,3 +1,3 @@
 # Programas en C
-
-Carpeta con programas de juguete escritos en `C`
+Repositorio con programas realizados:
+* Mini Shell en C - Linux
