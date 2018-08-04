@@ -3,8 +3,7 @@
 void printNumbers(int number,int contador){
 	if(contador<=number){
 		printf("%d ",contador);
-		contador++;
-		printNumbers(number,contador);
+		printNumbers(number,contador+1);
 	}
 }
 
